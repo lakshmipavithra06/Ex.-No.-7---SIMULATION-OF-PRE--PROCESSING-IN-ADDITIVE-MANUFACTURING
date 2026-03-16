@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 16.03.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![alt text](<Screenshot 2026-03-14 192151.png>)
+
+![alt text](<Screenshot 2026-03-14 192205.png>)
+
+![alt text](<Screenshot 2026-03-14 192220.png>)
+
+![alt text](<Screenshot 2026-03-14 192313.png>)
+
+
+### Name: LAKSHMI PAVITHRA M
+### Register Number:212225220055
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
